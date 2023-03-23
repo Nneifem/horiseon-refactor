@@ -6,9 +6,9 @@ This project was built to fix the vague coding in the semnatic html elements, th
 
 ## Usage
 
-![alt text](assets/images/Screenshot%202023-03-22%20at%208.53.05%20PM.png)
-![alt text](assets/images/Screenshot%202023-03-22%20at%208.53.28%20PM.png)
-![alt text](assets/images/Screenshot%202023-03-22%20at%208.53.43%20PM.png)
+![alt text](assets/images/Screenshot%202023-03-22%20at%209.45.54%20PM.png)
+![alt text](assets/images/Screenshot%202023-03-22%20at%209.46.30%20PM.png)
+![alt text](assets/images/Screenshot%202023-03-22%20at%209.46.57%20PM.png)
 
 
 ## License
@@ -38,5 +38,7 @@ SOFTWARE.
 ## Link 
 
 Here is the link to the webpage: https://nneifem.github.io/horiseon-refactor/#social-media-marketing
+Here is the link to the repo: https://github.com/Nneifem/horiseon-refactor
+
 
 
